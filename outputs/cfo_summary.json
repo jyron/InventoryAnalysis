@@ -1,0 +1,18 @@
+{
+  "headline": "$20.5M of revenue is at stockout risk across 250 SKUs, while $49,114 sits in unlaunched or non-moving inventory.",
+  "top_risks": [
+    "250 SKUs have under 14 days of cover — potential $20.5M lost revenue.",
+    "15 SKUs have not sold in 60 days, tying up $49,114 of working capital.",
+    "System quantity disagrees with ops physical counts on 39 SKUs worth $13,300."
+  ],
+  "data_quality_callouts": [
+    "40,179 POS rows have negative quantities — returns are not flagged distinctly from data-entry errors.",
+    "125,684 POS transactions (25%) have no customer ID — limits loyalty/repeat analysis.",
+    "E-commerce uses a separate product-ID namespace; 0 products still cannot be mapped to inventory automatically."
+  ],
+  "recommended_next_steps": [
+    "Expedite purchase orders for the top 10 at-risk SKUs this week.",
+    "Return or liquidate the 15 dead SKUs to recover working capital.",
+    "Enforce a single SKU format at POS entry; add required-field validation for customer and store."
+  ]
+}

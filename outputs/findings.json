@@ -1,0 +1,14 @@
+{
+  "at_risk_skus": 250,
+  "lost_revenue_at_risk": 20513338.72,
+  "dead_skus": 15,
+  "dead_capital": 49114.17,
+  "ops_override_count": 39,
+  "ops_override_dollars": 13300.119999999999,
+  "pos_negative_qty_rows": 40179,
+  "pos_missing_customer": 125684,
+  "pct_missing_customer": 0.2501149242296097,
+  "ecom_unmapped": 0,
+  "total_revenue": 594467089.9699999,
+  "online_share": 0.04005857194079788
+}

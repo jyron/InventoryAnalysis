@@ -1,0 +1,82 @@
+[
+  {
+    "sku": "46271",
+    "raw_note": "Physical count: 33 (system wrong)",
+    "issue_type": "physical_count_override",
+    "severity": "high",
+    "recommended_action": "Reconcile system quantity with physical count.",
+    "confidence": 0.55
+  },
+  {
+    "sku": "20951",
+    "raw_note": "Physical count: 33 (system wrong)",
+    "issue_type": "physical_count_override",
+    "severity": "high",
+    "recommended_action": "Reconcile system quantity with physical count.",
+    "confidence": 0.55
+  },
+  {
+    "sku": "34053",
+    "raw_note": "Physical count: 131 (system wrong)",
+    "issue_type": "physical_count_override",
+    "severity": "high",
+    "recommended_action": "Reconcile system quantity with physical count.",
+    "confidence": 0.55
+  },
+  {
+    "sku": "90336",
+    "raw_note": "Physical count: 33 (system wrong)",
+    "issue_type": "physical_count_override",
+    "severity": "high",
+    "recommended_action": "Reconcile system quantity with physical count.",
+    "confidence": 0.55
+  },
+  {
+    "sku": "38217",
+    "raw_note": "Seasonal item - store after Dec",
+    "issue_type": "other",
+    "severity": "medium",
+    "recommended_action": "Reconcile system quantity with physical count.",
+    "confidence": 0.55
+  },
+  {
+    "sku": "76021",
+    "raw_note": "Reserved for customer order",
+    "issue_type": "other",
+    "severity": "medium",
+    "recommended_action": "Reconcile system quantity with physical count.",
+    "confidence": 0.55
+  },
+  {
+    "sku": "19333",
+    "raw_note": "Display only - do not sell",
+    "issue_type": "other",
+    "severity": "medium",
+    "recommended_action": "Reconcile system quantity with physical count.",
+    "confidence": 0.55
+  },
+  {
+    "sku": "90479",
+    "raw_note": "Physical count: 122 (system wrong)",
+    "issue_type": "physical_count_override",
+    "severity": "high",
+    "recommended_action": "Reconcile system quantity with physical count.",
+    "confidence": 0.55
+  },
+  {
+    "sku": "16295",
+    "raw_note": "Physical count: 77 (system wrong)",
+    "issue_type": "physical_count_override",
+    "severity": "high",
+    "recommended_action": "Reconcile system quantity with physical count.",
+    "confidence": 0.55
+  },
+  {
+    "sku": "95676",
+    "raw_note": "Physical count: 187 (system wrong)",
+    "issue_type": "physical_count_override",
+    "severity": "high",
+    "recommended_action": "Reconcile system quantity with physical count.",
+    "confidence": 0.55
+  }
+]

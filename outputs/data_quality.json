@@ -1,0 +1,21 @@
+{
+  "pos": {
+    "total_rows": 502505,
+    "missing_sku": 1,
+    "missing_store": 100580,
+    "missing_customer": 125684,
+    "negative_quantity_rows": 40179,
+    "unparseable_date": 4,
+    "orphan_skus_vs_inventory": 4
+  },
+  "ecommerce": {
+    "unique_products": 212,
+    "mapped_to_sku": 212,
+    "unmapped": 0
+  },
+  "inventory": {
+    "skus": 265,
+    "rows_with_ops_notes": 86,
+    "missing_reorder_level": 0
+  }
+}
